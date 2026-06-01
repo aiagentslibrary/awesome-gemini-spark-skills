@@ -1,2 +1,2 @@
-# gemini-spark-skills
-Explore Google Gemini skills for business owners, founders, creators, and more. Increase productivity with AI workflows tailored to the Google Ecosystem: Google Docs, Gmail, Google Slides, and more.
+# awesome-gemini-spark-skills
+Awesome Gemini Spark skills library with reusable Google Workspace AI agent workflows for Gmail, Calendar, Drive, Docs, Sheets, Slides, YouTube, Maps, Canva, GitHub, and business automation.
